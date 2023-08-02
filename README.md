@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a student at Avenir 84, Avignon, France
+
+Currently working on a web app for La Tresse
+
 <!--
 **GalaxyBrainWave/GalaxyBrainWave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
